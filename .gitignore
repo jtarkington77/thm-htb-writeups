@@ -1,0 +1,12 @@
+# OS junk
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Icon?
+# Archives
+*.zip
+*.7z
+*.rar
+# Editor folders
+.vscode/
+.idea/
