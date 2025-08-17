@@ -1,24 +1,25 @@
-# TryHackMe – Pentesting Fundamentals
+# TryHackMe – Principles of Security
 
-**Date Completed:** 2025-08-15 
+**Date Completed:** 2025-08-15
 **Difficulty:** Intro / Theory  
-**Category:** Pentesting Basics  
+**Category:** Information Security  
 
 ---
 
 ## Objectives
-- Learn the phases and ethics of penetration testing.  
-- Understand differences between scanning and full pentests.  
+- Learn the principles that guide security in organizations.  
+- Understand how security goals shape protections.  
 
 ---
 
 ## Key Concepts Learned
-- Pentest phases: Recon → Enumeration → Exploitation → Post-exploitation → Reporting  
-- Pentest vs. Vulnerability Scan: simulated attacker vs. automated detection  
-- Rules of engagement: always have written scope & authorization  
+- **CIA Triad** – Confidentiality, Integrity, Availability  
+- **Least Privilege** – Users/services get only what they need  
+- **Defense in Depth** – Multiple overlapping controls  
+- **Risk Management** – Identify, assess, mitigate risks  
 
 ---
 
 ## Notes
 - No labs or flags, theory-only.  
-- Foundation for later modules.
+- Establishes security mindset before practical hacking.
